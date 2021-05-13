@@ -1,14 +1,14 @@
 {
   "name": "Boxer",
   "short_name": "Boxer",
-  "start_url": "/boxer-hugo-test/",
-  "scope": "/boxer-hugo-test/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/boxer-hugo-test/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
