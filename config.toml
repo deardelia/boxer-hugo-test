@@ -1,0 +1,5 @@
+baseURL = "https://deardelia.github.io/boxer-hugo-test"
+languageCode = "en-us"
+title = "Boxer"
+theme = "book"
+publishDir = "docs"
